@@ -12,4 +12,8 @@
 ![qiao GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Justinary&hide_progress=false&layout=donut-vertical&theme=tokyonight)
 
 ![github activity graph dark](https://github-readme-activity-graph.vercel.app/graph?username=Justinary&theme=default)
+
+![GitHub Streak dark](https://streak-stats.demolab.com/?user=Justinary&theme=tokyonight)
+
+![cup dark](https://github-profile-trophy.vercel.app/?username=Justinary&theme=tokyonight)
 </div>
